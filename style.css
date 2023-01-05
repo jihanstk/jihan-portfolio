@@ -182,6 +182,32 @@ justify-content: space-around;
 }
 
 
+/* Contact style */
+
+.contact{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 50px 20px;
+}
+.message input[type="text"], input[type="email"], textarea {
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%;
+    padding: 10px 30px;
+    background-color: #ebebeb;
+}
+.contact-title{
+    margin-bottom: 30px;
+}
+.description p{
+    margin-bottom: 20px;
+    color: #474747;
+}
+.description img{
+    margin-right: 20px;
+}
+
 
 
 

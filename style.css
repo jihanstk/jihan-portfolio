@@ -154,6 +154,32 @@ justify-content: space-around;
     color: #757575;
 }
 
+/* RESUME STYLE */
+.resume-title{
+ text-align: center;
+ margin: 100px 0;
+}
+.ee-title{
+    margin-bottom: 50px;
+}
+.resume-content{
+    display: flex;
+}
+.title{
+    margin-top: 10px;
+}
+.sub-title{
+    margin-bottom: 15px;
+    color: #757575;
+}
+.title-des{
+    color:#757575 ;
+    margin-bottom: 20px;
+}
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
 
 
 

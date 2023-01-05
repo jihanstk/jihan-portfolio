@@ -126,6 +126,34 @@ justify-content: space-around;
     font-weight: 600;
 }
 
+/* what i Do */
+.my-skills{
+    margin-top: 100px;
+
+}
+.my-skills h1{
+ 
+    margin-bottom: 30px;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-main-title{
+    text-align: center;
+    padding: 50px 350px;
+    
+}
+.skill-title{
+    margin: 25px 0;
+}
+.skill{
+    padding:40px;
+}
+.skill-des{
+    color: #757575;
+}
+
 
 
 

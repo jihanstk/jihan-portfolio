@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    /* font-family: 'Arimo', sans-serif; */
+    font-family: 'Nunito Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.brand{
+    font-weight: 800;
+    font-size: 2.5rem;
+
+}
+.primary-color{
+    color: #FD6E0A;
+}
+.btn-primary{
+    height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #FD6E0A;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #ed6504;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 250px;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+
+
+}
+nav ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+.header{
+    background-color: #FFF8F3;
+    background-image: url(/milestone-1/jihan-portfolio/images/header_bg.png),url("/milestone-1/jihan-portfolio/images/developer.png");
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    overflow: hidden;
+    
+}
+/* banner styles */
+
+.banner{
+    display: flex;
+    align-items: center;
+    padding: 0 200px;
+}
+.banner .banner-description h1{
+    font-size: 46px;
+}
+.banner .banner-description p{
+   color: #757575;
+   font-weight: 400;
+font-size: 18px;
+margin:20px  0px;
+}
+.btn-contact{
+    height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    border-radius: 5px;
+    outline: 1px solid gray;
+    color: #000;
+    background:transparent ;
+}
+.btn-contact:hover{
+   
+    color: #000;
+    background:rgb(211, 208, 208) ;
+}
+.header-image img{
+    height: auto;
+    width: 400px;
+}
+/* main */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+/* about section */
+.about{
+    padding:130px 170px;
+    background: #f6eee9;
+border-radius: 10px;
+text-align: center;
+}
+.about-hd{
+    margin-bottom: 30px;
+}
+
+
+.my-info {
+display: flex;
+justify-content: space-around;
+
+}
+.info-title{
+    color: #757575;
+    /* font-size: 20px; */
+}
+.info-des{
+    color: #474747;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
